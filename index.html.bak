@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> WEB PAGE </TITLE>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+   <link rel="stylesheet" href="indexstyle.css">
+ </HEAD>
+ <BODY>
+	<header>
+		<div class="main">
+			<div class="logo">
+				<img src="https://www.logo-designer.co/wp-content/uploads/2019/07/2019-nasa-artemis-lunar-program-logo-design.png ">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="services.html">Services</a></li>
+				<li><a href="gallery.html">Gallery</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="registration.html">Registration</a></li>
+			</ul>
+		</div>
+		<div class="title">
+			<h1>ARTEMIS APARTMENTS</h1>
+		</div>
+		<div class="button">
+			<a href="https://www.youtube.com/watch?v=EA9gyCRJTz0" class="btn">WATCH VIDEO</a>
+			<a href="https://www.tripadvisor.in/Hotel_Review-g655745-d1084866-Reviews-Artemis_Apartments-Kato_Gouves_Gouves_Crete.html" class="btn">LEARN MORE</a>
+		</div>
+	</header></br></br>
+<!--	<h2>GALLERY</h2></br>
+	<div class="flexcontainer">
+		<div>
+			<img src=" https://is1-3.housingcdn.com/4f2250e8/f37edca7ab4e1416d0bf53e400f12885/v0/fs/d_b_bhagawati_apartment-baranagar-kolkata-d_b_construction.jpeg">
+		</div>
+		<div>
+			<img src="https://is1-2.housingcdn.com/4f2250e8/7fe3f307b76520f1a126eba25ea4c70c/v5/fs/axis_pleasant_apartments-manikonda-hyderabad-axis_home_developers.jpg">
+		</div>
+		<div>
+			<img src="https://rentpath-res.cloudinary.com/w_558,h_386,t_rp,cs_tinysrgb,fl_force_strip,c_fill,e_improve,f_auto/e_unsharp_mask:50,q_auto/c92f9ceb56be0543884353e0a4fd491a">
+		</div>
+	</div></br></br>
+	<h2>INNER ROOMS </h2></br>
+	<div class="container">
+		<div class="gallery">
+			<img src="https://images.rentals.ca/property-pictures/medium/red-deer-ab/279104/mid-rise-apartment-kitchen-natural-light-carpet-kitchen-island-1471984.jpg">
+			<div class="desc">Kitchen Room</div>
+		</div>
+		<div  class="gallery">
+			<img src="https://www.aveliving.com/AVE/media/Property_Images/Florham%20Park/hero/flor-apt-living-(2)-hero.jpg?ext=.jpg">
+			<div class="desc">Living Room</div>
+		</div>
+		<div class="gallery">
+			<img src="https://res.akamaized.net/domain/image/fetch/t_web/https://static.domain.com.au/domainblog/uploads/2018/01/02001825/2_h0938x.jpg">
+				<div class="desc">Bed Room 1</div>
+		</div>
+		<div class="gallery">
+			<img src="https://ar.rdcpix.com/972574711/c3ab1e483b95df8a3324027aa1102368c-f0xd-w480_h480_q80.jpg">
+				<div class="desc">Bed Room 2</div>
+		</div>
+		<div class="gallery">
+			<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTycrqQw4VoIXbU4QRVP1TgPFUwgHhUlhZ8iA&usqp=CAU">
+				<div class="desc">Pooja Mandir</div>
+		</div>
+		<div class="gallery">
+			<img src="https://c4.wallpaperflare.com/wallpaper/215/944/975/warm-and-modern-living-room-living-room-set-wallpaper-preview.jpg">
+				<div class="desc">Waiting Room</div>
+		</div>
+	</div></br></br>
+	<h2>About</h2></br>
+	<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Artemis Apartments is a family-run complex located just 50 meters from the beach and the picturesque Port of Chersonissos. A big convention center is at 200 meters. All apartments at Artemis have free WI-Fi, a living room with TV, 2 balconies and a fully equipped kitchen. Artemis Apartments are only 100 meters from the main pedestrian road and a supermarket. A small port with yacht facilities is available, whereas in summer excursion boats can get you to the islet of Dia every day. Chersonissos is a cosmopolitan resort of the Heraklion prefecture. It is ideally located to further explore Crete. Nearby sightseeing includes the famous Minoan palace of Malia at 5km away. N. Kazantzakis International Airport is 25 km away.</p></br>
+	<h3>Branches of Artemis:</h3></br>
+	<ol>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* India</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* USA</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Australia</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Germany</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Malasia</li>
+	</ol></br>
+	<footer>Contact us on:</br>
+		Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i>:9865721007,9964523067,6985210964</br>
+		<i class="fa fa-whatsapp fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+		<i class="fa fa-instagram fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+		<i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+		<i class="fa fa-twitter fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;
+	</footer>-->
+		
+			
+ </BODY>
+</HTML>

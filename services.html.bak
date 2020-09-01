@@ -1,0 +1,53 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> New Document </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+ <style type="text/css">
+	body{
+	background-color:powderblue;
+	}
+	h3{
+		background-color:red;
+		color:white;
+	}
+	ol li{
+		background-color:tin;
+		color:Fuchisa;
+	}
+	footer{
+		padding:10px;
+		font-size:17px;
+		font-weight:bold;
+		text-align:center;
+		background:#594848;
+		color:white;
+		font-family:Arial;
+		letter-spacing:1px;
+	}
+ </style>
+
+ <BODY>
+  <h3>Branches of Artemis:</h3></br>
+	<ol>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; India</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; USA</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Australia</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Germany</li>
+		<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Malasia</li>
+	</ol></br>
+	<footer>Contact us on:</br>
+		Whatsapp <i class="fa fa-whatsapp" aria-hidden="true"></i>:9865721007,9964523067,6985210964</br>
+		<i class="fa fa-whatsapp fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+		<i class="fa fa-instagram fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+		<i class="fa fa-facebook-official fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+		<i class="fa fa-twitter fa-3x" aria-hidden="true"></i>&nbsp;&nbsp;
+	</footer>
+		
+
+ </BODY>
+</HTML>

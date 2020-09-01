@@ -1,0 +1,145 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:Century Gothic;
+}
+header{
+	background-image:/*linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),*/url(https://upload.wikimedia.org/wikipedia/commons/0/0a/Central_Park_during_Autumn%2C_NYC.jpg);
+	background-size:cover;
+	background-position:center;
+	height:100%;
+}
+ul{
+	float:right;
+	list-style-type:none;
+	margin-top:25px;
+}
+ul li{
+	display:inline-block;
+}
+ul li a{
+	text-decoration:none;
+	color:#fff;
+	padding:5px 20px;
+	border:1px solid transparent;
+	transition:0.6s ease;
+}
+ul li a:hover{
+	background-color:#fff;
+	color:#000;
+}
+ul li.active a{
+	background-color:#fff;
+	color:#000;
+}
+.logo img{
+	float:left;
+	width:150px;
+	height:auto;
+	padding:2%;
+}
+.main{
+	max-width:1200px;
+	margin:auto;
+}
+.title{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+.title h1{
+	color:#fff;
+	font-size:70px;
+}
+.button{
+	position:absolute;
+	top:62%;
+	left:50%;
+	transform: translate(-50%,-50%);
+}
+.btn{
+	border:1px solid #fff;
+	padding:10px 30px;
+	color:#fff;
+	text-decoration:none;
+	transition:0.6s ease;
+}
+.btn:hover{
+	background-color:#fff;
+	color:#000;
+}
+h2{
+	background-color:black;
+	color:white;
+}
+/*.flexcontainer{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-around;
+}
+.flexcontainer div{
+	background-color:powderblue;
+	padding:1%;
+	margin:1%;
+	width:29%;
+}
+.flexcontainer img{
+	height:300px;
+	width:100%;
+	opacity:0.7;
+}
+.flexcontainer img:hover{
+	transition:all 4s linear;
+	opacity:1%;
+	width:90%;
+	height:200px;
+}
+.container{
+	max-width:1200px;
+	margin:auto;
+	background:#f2f2f2;
+	overflow:auto;
+}
+.gallery{
+	margin:5px;
+	border:1px solid #ccc;
+	float:left;
+	width:388px;
+}
+.gallery img{
+	width:100%;
+	height:50%;
+}
+.desc{
+	padding:15px;
+	text-align:center;
+}
+p{
+	color:blue;
+	font-family:italic;
+}
+footer{
+	padding:10px;
+	font-size:17px;
+	font-weight:bold;
+	text-align:center;
+	background:#594848;
+	color:white;
+	font-family:Arial;
+	letter-spacing:1px;
+}*/
+@media only screen and (min-width:320px) and (max-width:767px){
+	.flexcontainer{
+		flex-direction:column;
+	}
+	.flexcontainer div{
+		width:95%;
+	}
+}
+@media only screen and (min-width:768px) and (max-width:1023px){
+	.flexcontainer div{
+		width:60%;
+	}
+}
